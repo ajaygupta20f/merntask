@@ -1,4 +1,4 @@
-# Todo App with Firebase Authentication
+# Task App with Firebase Authentication
 
 A simple MERN stack todo application with Firebase authentication and role-based authorization.
 
