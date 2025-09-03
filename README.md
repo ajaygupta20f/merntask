@@ -88,8 +88,11 @@ REACT_APP_API_BASE_URL=http://localhost:5000/api
 ### 4. Start the Application
 
 ```bash
-# Start both frontend and backend
+# Start  backend
 npm run dev
+
+# Start fronted
+ npm start
 
 # Or start them separately:
 npm run server  # Backend only
